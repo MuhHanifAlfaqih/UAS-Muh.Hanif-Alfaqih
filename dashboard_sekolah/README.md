@@ -42,9 +42,12 @@
 
 ```
 dashboard_sekolah/
-├── admin/                # Panel admin (CRUD lengkap)
-│   ├── dashboard.php     # Dashboard utama
+│   ├── admin/            # Panel admin (CRUD lengkap)
 │   ├── guru/             # Data guru
+│   ├── siswa/            # Data Siswa
+│   ├── nilai/            # Data Nilai
+│   ├── kelas/            # Data Kelas
+│   ├── Mapel/            # Data Mapel
 │   ├── pengumuman/       # Pengumuman sekolah
 │   ├── artikel/          # Artikel/berita
 │   ├── gallery/          # Galeri foto
@@ -52,7 +55,12 @@ dashboard_sekolah/
 │   └── template/         # Header, sidebar, footer
 ├── assets/               # CSS, JS, uploads
 ├── config/               # Koneksi database
-└── index.php             # Landing page sekolah
+├── auth.php              # Proses login: mengecek username dan password
+├── check_auth.php        # Cek apakah user sudah login (untuk proteksi halaman)
+├── dashboard_simple.php  # Versi dashboard ringan atau preview (mungkin untuk user biasa)
+├── dashboard.php         # Dashboard utama admin (menampilkan statistik/menu)
+├── index.php             # Redirect ke login/dashboard tergantung status login
+└── logout.php            # Menghapus session dan redirect ke login
 ```
 
 ### ✅ Fitur Teknis:
