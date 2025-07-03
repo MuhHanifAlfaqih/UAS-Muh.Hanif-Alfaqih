@@ -15,8 +15,8 @@
 4. Login: `admin` / `admin123`
 
 ### 🎯 Fitur Lengkap:
-✅ Dashboard Admin : Pusat kendali untuk seluruh data dan aktivitas website sekolah.
-✅ Manajemen Guru : CRUD data guru (tambah, edit, hapus, lihat).
+- ✅ Dashboard Admin : Pusat kendali untuk seluruh data dan aktivitas website sekolah. 
+- ✅ Manajemen Guru : CRUD data guru (tambah, edit, hapus, lihat).
 ✅ Manajemen Siswa : CRUD data siswa, termasuk penempatan siswa ke dalam kelas.
 ✅ Manajemen Kelas : Kelola daftar kelas, termasuk nama kelas dan wali kelas.
 ✅ Manajemen Mata Pelajaran : Input dan kelola daftar mata pelajaran yang diajarkan.
