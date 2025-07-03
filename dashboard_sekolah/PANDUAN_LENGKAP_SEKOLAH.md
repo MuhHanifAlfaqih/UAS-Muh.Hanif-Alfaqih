@@ -5,12 +5,16 @@
 2. [Login Pertama Kali](#login-pertama-kali)
 3. [Penjelasan Dashboard](#penjelasan-dashboard)
 4. [Manajemen Guru](#manajemen-guru)
-5. [Manajemen Pengumuman](#manajemen-pengumuman)
-6. [Manajemen Artikel](#manajemen-artikel)
-7. [Manajemen Galeri](#manajemen-galeri)
-8. [Manajemen Ekstrakurikuler](#manajemen-ekstrakurikuler)
-9. [Tips & Troubleshooting](#tips--troubleshooting)
-10. [Dukungan & Revisi](#dukungan--revisi)
+5. [Manajemen Siswa](#manajemen-siswa)
+6. [Manajemen Nilai](#manajemen-nilai)
+7. [Manajemen Kelas](#manajemen-kelas)
+8. [Manajemen Mapel](#manajemen-mapel)
+9. [Manajemen Ekstrakurikuler](#manajemen-ekstrakurikuler)
+10. [Manajemen Artikel](#manajemen-artikel)
+11. [Manajemen Galeri](#manajemen-galeri)
+12. [Manajemen Pengumuman](#manajemen-pengumuman)
+13. [Tips & Troubleshooting](#tips--troubleshooting)
+14. [Dukungan & Revisi](#dukungan--revisi)
 
 ---
 
