@@ -15,30 +15,18 @@
 4. Login: `admin` / `admin123`
 
 ### 🎯 Fitur Lengkap:
-✅ Dashboard Admin
-Pusat kendali untuk seluruh data dan aktivitas website sekolah.
-✅ Manajemen Guru
-CRUD data guru (tambah, edit, hapus, lihat).
-✅ Manajemen Siswa
-CRUD data siswa, termasuk penempatan siswa ke dalam kelas.
-✅ Manajemen Kelas
-Kelola daftar kelas, termasuk nama kelas dan wali kelas.
-✅ Manajemen Mata Pelajaran
-Input dan kelola daftar mata pelajaran yang diajarkan.
-✅ Manajemen Nilai
-Input dan monitoring nilai siswa berdasarkan mata pelajaran dan kelas.
-✅ Manajemen Pengumuman
-CRUD pengumuman sekolah agar bisa diakses oleh semua pengguna.
-✅ Manajemen Artikel
-CRUD konten berita dan artikel untuk informasi dan edukasi.
-✅ Galeri Foto
-Upload dan kelola foto kegiatan sekolah.
-✅ Ekstrakurikuler
-Data dan jadwal kegiatan ekskul, serta informasi pembimbing.
-✅ Sistem Login Aman
-Otentikasi pengguna menggunakan session (admin/operator).
-✅ Responsive Design
-Tampilan website menyesuaikan dengan layar HP, tablet, dan desktop.
+✅ Dashboard Admin : Pusat kendali untuk seluruh data dan aktivitas website sekolah.
+✅ Manajemen Guru : CRUD data guru (tambah, edit, hapus, lihat).
+✅ Manajemen Siswa : CRUD data siswa, termasuk penempatan siswa ke dalam kelas.
+✅ Manajemen Kelas : Kelola daftar kelas, termasuk nama kelas dan wali kelas.
+✅ Manajemen Mata Pelajaran : Input dan kelola daftar mata pelajaran yang diajarkan.
+✅ Manajemen Nilai :Input dan monitoring nilai siswa berdasarkan mata pelajaran dan kelas.
+✅ Manajemen Pengumuman : CRUD pengumuman sekolah agar bisa diakses oleh semua pengguna.
+✅ Manajemen Artikel : CRUD konten berita dan artikel untuk informasi dan edukasi.
+✅ Galeri Foto : Upload dan kelola foto kegiatan sekolah.
+✅ Ekstrakurikuler : Data dan jadwal kegiatan ekskul, serta informasi pembimbing.
+✅ Sistem Login Aman : Otentikasi pengguna menggunakan session (admin/operator).
+✅ Responsive Design : Tampilan website menyesuaikan dengan layar HP, tablet, dan desktop.
 
 ### 💎 Kualitas:
 - **UI/UX Modern** - Minimalis, konsisten, dan profesional
